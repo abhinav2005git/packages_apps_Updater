@@ -32,7 +32,7 @@
           {type} - Build type
           {incr} - Incremental version
     -->
-    <string name="updater_server_url" translatable="false">https://raw.githubusercontent.com/Lunaris-AOSP/OTA/16/builds/{device}.json</string>
+    <string name="updater_server_url" translatable="false">https://raw.githubusercontent.com/abhinav2005git/OTA_Lunaris/refs/heads/main/{device}.json</string>
 
     <string name="verification_failed_notification">Verification failed</string>
     <string name="verifying_download_notification">Verifying update</string>
